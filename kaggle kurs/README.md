@@ -1,0 +1,1 @@
+W tym folderze znajdują sie notebooki z kursu na stronie Kaggle wprowadzające w naukę maszynową. Kurs ten jest dobra podstawą wiedzy do wykorzystania jej podczas organizowanych konkursów na stronie Kaggle.
